@@ -10,8 +10,8 @@
 //   Wind,
 // } from 'lucide-react';
 
-// const API_KEY = '8d2de98e089f1c28e1a22fc19a24ef04';
-// const API_URL = 'https://api.openweathermap.org/data/2.5';
+// const API_KEY = '';
+// const API_URL = ';
 
 // interface WeatherData {
 //   main: {
@@ -251,8 +251,8 @@ import {
   Snowflake,
 } from 'lucide-react';
 
-const API_KEY = '8d2de98e089f1c28e1a22fc19a24ef04';
-const API_URL = 'https://api.openweathermap.org/data/2.5';
+const API_KEY = '';
+const API_URL = '';
 
 interface WeatherData {
   main: {
